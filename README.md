@@ -1,4 +1,4 @@
-# Highly-Secured-PHP-Website-With-Custom-VPC
+# Secured-PHP-Website-With-Custom-VPC
 
 ## (Deployed on AWS Cloud)
 Here is a project of deploying a PHP website with a database. The baseline of the project is that there is a small PHP website and a database server that needs to be configured with high security. To fulfilling these concerns I'have build infrastructure via custom VPC and security groups providing maximum security.
