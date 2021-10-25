@@ -12,7 +12,6 @@ For establishing maximum security for the instances, implemented with restricted
 - High Security implemented infrastructure.
 - Easy configuration to implement.
 - Avoids data breaches by implementing an isolated space.
-- 
 
 ## Used Resources
 
@@ -31,7 +30,7 @@ For establishing maximum security for the instances, implemented with restricted
 
 ## Architecture
 
-
+![alt text](https://github.com/rony-james/Highly-Secured-PHP-Website-With-Custom-VPC/blob/main/ddr5.jpeg?raw=true)
 
 
 ## Conclusion
